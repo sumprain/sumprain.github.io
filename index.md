@@ -11,7 +11,7 @@ Welcome to my web site. This site contain records of my scientific and data anal
 
 I have two blog sites
 
-1. Related to [Statistics and work on R](http;//sumanmathmedicine.blogspot.in)
+1. Related to [Statistics and work on R](http://sumanmathmedicine.blogspot.in)
 
 2. Related to [Clinical Medicine Practice](http://sumanclinicalmedicinefacts.blogspot.in)
 
@@ -21,7 +21,7 @@ I have two blog sites
 
 2. [Presentations](presentations.html)
 
-3. [Mom: My wife's blog](http://momdaslifehandmade.blogspot.in)
+3. [My wife: Mom](http://momdaslifehandmade.blogspot.in)
 
 4. [R project](https://www.r-project.org/)
 

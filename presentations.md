@@ -19,8 +19,10 @@ output: html_document
 
 6. Guest lecture on _"Newer Anticoagulants"_ in NMUD 2014, **AFMC** 27-28 Sep 2014
 
-7. Lecture on _"Interpretation of results of Clinical Research"_ in 10th ALumni Meet Dept Hematology, **AIIMS**, 01 Apr 2015
+7. Lecture on _"Interpretation of results of Clinical Research"_ in 10th Alumni Meet Dept Hematology, **AIIMS**, 01 Apr 2015
 
 8. _Clinical Vignettes_ on joint/soft tissue bleed in hemophilia, **Hemostasis Update 2015 (Hemophilia Management - Back to Basics)**, 09 May 2015, **NRS Medical College**, Kolkata. (4 hours accredition by WBMC, cert No 55).
 
-9. Debate on _All transplant eligible Patients of Multiple Myeloma should undergo early Autologous Stem Cell Transplantation_ at Myeloma Update at **IHTM Kolkata**, 28 Oct 2015.
+9. _Symposium on Polycythemia: Diagnostic Approach_, Lecture, **14th Annual Conference of the Indian Association of Clinical Medicine, West Bengal Chapter**, 19 Sep 2015.
+
+10. Debate on _All transplant eligible Patients of Multiple Myeloma should undergo early Autologous Stem Cell Transplantation_ at Myeloma Update at **IHTM Kolkata**, 28 Oct 2015.
