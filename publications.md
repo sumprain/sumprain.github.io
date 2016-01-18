@@ -83,3 +83,5 @@ Oct;78(10):1211-5. doi: 10.1007/s12098-010-0300-1. Epub 2011 May 8. PubMed PMID:
 1.  Rakhi Maiwall, _Suman Kumar_, S K Sarin. Reply to: “Low free T3 levels are related to early mortality in patients with decompensated cirrhosis and acute-on chronic liver failure”. J Hepatol. 2014 Dec;61(6):1447-8. doi: 10.1016/j.jhep.2014.08.049. Epub 2014 Sep 6. DOI: <http://dx.doi.org/10.1016/j.jhep.2014.08.049>
 
 1. Maiwall R, _Kumar S_, Chandel SS, Kumar G, Rastogi A, Bihari C, Sharma MK, Thakur B, Jamwal K, Nayak S, Mathur RP, Sarin SK. AKI in patients with acute on chronic liver failure is different from acute decompensation of cirrhosis. Hepatol Int. 2015 Oct;9(4):627-39. doi: <dx.doi.org/10.1007/s12072-015-9653-x>. Epub 2015 Sep 2.
+
+1. Maiwall R, _Kumar S_, Sharma MK, Wani Z, Ozukum M, Sarin SK. Prevalence and prognostic significance of hyperkalemia in hospitalized patients with cirrhosis. J Gastroenterol Hepatol. 2015 Nov 24. doi: 10.1111/jgh.13243
