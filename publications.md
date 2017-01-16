@@ -5,6 +5,8 @@ output: html_document
 
 ## Publications
 
+1. Gupta A, Sashindran VK, _Kumar S_. Correlation of Intra Vascular Cannula Insertion Technique and Ward Practices with Local Site Infection. Med J Armed Forces India. 2010 Apr;66(2):113-6. doi: 10.1016/S0377-1237(10)80120-0. Epub 2011 Jul 21.
+
 1. Sood P, Seth T, Kapil A, Sharma V, Dayama A, Sharma S, _Kumar S_, Singh AK,
 Mishra P, Mahapatra M. Emergence of multidrug resistant acinetobacter blood
 stream infections in febrile neutropenia patients with haematological cancers and
@@ -85,3 +87,11 @@ Oct;78(10):1211-5. doi: 10.1007/s12098-010-0300-1. Epub 2011 May 8. PubMed PMID:
 1. Maiwall R, _Kumar S_, Chandel SS, Kumar G, Rastogi A, Bihari C, Sharma MK, Thakur B, Jamwal K, Nayak S, Mathur RP, Sarin SK. AKI in patients with acute on chronic liver failure is different from acute decompensation of cirrhosis. Hepatol Int. 2015 Oct;9(4):627-39. doi: <dx.doi.org/10.1007/s12072-015-9653-x>. Epub 2015 Sep 2.
 
 1. Maiwall R, _Kumar S_, Sharma MK, Wani Z, Ozukum M, Sarin SK. Prevalence and prognostic significance of hyperkalemia in hospitalized patients with cirrhosis. J Gastroenterol Hepatol. 2015 Nov 24. doi: 10.1111/jgh.13243
+
+1. Dogra PM, _Pramanik SK_, Jana S. Purple glove syndrome. Indian J Dermatol Venereol Leprol. 2016 Jan-Feb;82(1):107-8. doi: 10.4103/0378-6323.172908.
+
+1. Sharma SK, _Kumar S_, Vijayakumar AR, Seth T1, Mishra P, Mahapatra M, Sazawal S, Velpandian T, Saxena R. Utility of the trough plasma imatinib level monitoring at two time points in patients with the chronic myeloid leukemia-chronic phase. J Cancer Res Ther. 2014 Apr-Jun;10(2):305-8. doi: 10.4103/0973-1482.136583.
+
+1. Chopra A, Soni S, Pati H, Kumar D, Diwedi R, Verma D, Vishwakama G, Bakhshi S, _Kumar S_, Gogia A, Kumar R. Nucleophosmin mutation analysis in acute myeloid leukaemia: Immunohistochemistry as a surrogate for molecular techniques. Indian J Med Res. 2016 Jun;143(6):763-768. doi: 10.4103/0971-5916.192027.
+
+
